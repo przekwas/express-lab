@@ -1,0 +1,16 @@
+{
+  "name": "express-lab",
+  "version": "1.0.0",
+  "description": "Covanlence Lab with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Luke",
+    "is",
+    "awesome"
+  ],
+  "author": "Tuna No Crust",
+  "license": "ISC"
+}
